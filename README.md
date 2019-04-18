@@ -84,6 +84,7 @@ Office2----/
 Схема сети:
 
 office1server ---> office1router                                     
+
                                     \
  
                                       \

@@ -94,7 +94,7 @@ office1Server ---> office1Router
                                         \
 
  
-                                          ---> centralRouter ---> Router ---> inetRouter ---> internet
+                                          ---> centralRouter ---> inetRouter ---> internet
                                 
                                         /            |
                               

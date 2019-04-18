@@ -91,7 +91,7 @@ office1server ---> office1router|
                                 
                                  /         |
 
-office2server ---> office2router|          |
+office2server ---> office2router|          .
                                            
                                            |
  

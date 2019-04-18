@@ -84,9 +84,9 @@ Office2----/
 Схема сети:
 
 office1server ---> office1router|
-
+                                |
                                 ---> centralrouter ---> inetRouter ---> internet
-
+                                |
 office2server ---> office2router|          |
       
                                      centralserver 

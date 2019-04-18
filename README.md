@@ -85,11 +85,19 @@ Office2----/
 
 office1server ---> office1router|
                                  
-                                 \
+                                    \
+ 
+                                      \
+                                        
+                                        \
 
-                                   ---> centralrouter ---> inetRouter ---> internet
+
+                                          ---> centralrouter ---> inetRouter ---> internet
                                 
-                                 /         \
+                                        /            |
+                              
+                                      /              V
 
-office2server ---> office2router|         centralserver
-eef
+                                               centralserver
+office2server ---> office2router|         
+
